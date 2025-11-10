@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\bin\Debug\net8.0\ITDCAQuestion2.exe
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\bin\Debug\net8.0\ITDCAQuestion2.deps.json
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\bin\Debug\net8.0\ITDCAQuestion2.runtimeconfig.json
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\bin\Debug\net8.0\ITDCAQuestion2.dll
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\bin\Debug\net8.0\ITDCAQuestion2.pdb
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\obj\Debug\net8.0\ITDCAQuestion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\obj\Debug\net8.0\ITDCAQuestion2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\obj\Debug\net8.0\ITDCAQuestion2.AssemblyInfo.cs
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\obj\Debug\net8.0\ITDCAQuestion2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\obj\Debug\net8.0\ITDCAQuestion2.dll
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\obj\Debug\net8.0\refint\ITDCAQuestion2.dll
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\obj\Debug\net8.0\ITDCAQuestion2.pdb
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\obj\Debug\net8.0\ITDCAQuestion2.genruntimeconfig.cache
+C:\Users\HP\source\repos\ITDCA Project\Question 2\ITDCAQuestion2\obj\Debug\net8.0\ref\ITDCAQuestion2.dll
